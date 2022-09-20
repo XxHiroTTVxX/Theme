@@ -1,5 +1,5 @@
 /**
-* @name Weeb Theme
+* @name Richard
 * @version Auto Update
 * @description A theme made by hiro
 * @author Hiro
@@ -13,17 +13,15 @@
 :root {
 --main-theme-color: #43b581;
 --theme-transparency: #000000cc;
---theme-background-image: url('https://media.giphy.com/media/YWB6Hi29vA3jG/giphy.gif');
---home-icon-image: url('https://c.tenor.com/d6YbAaUX9BQAAAAC/zero-two-smile.gif');
+--theme-background-image: url('https://media.discordapp.net/attachments/1000561413640699926/1021679609068134431/unknown.png');
+--home-icon-image: url('https://cdn.discordapp.com/attachments/1000561413640699926/1021681291936153611/unknown.png');
 --home-icon-image-zoom: 100%;
 --home-icon-image-position: center;
 --server-listing-width: 72px;
 --font-size: 100%;
 --mention-color: #faa61a0d;
---mention-sider: #faa61aff;
 --mention-hover-color: #faa61a14;
 --category-hover-color: #3cca8aff;
---unread-server-animation: rainbow;
 --video-screen-button-background-color: #c8c8c833;
 --video-screen-button-foreground-color: rgb(0, 0, 0);
 --video-screen-button-background-hovor-color: #c8c8c866;
